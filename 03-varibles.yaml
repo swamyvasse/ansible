@@ -8,4 +8,4 @@
   - name: print the varibles
     ansible.builtin.debug:
      msg: "i am learning {{COURSE}} is {{TRAINER}} and {{DURATION}}"
-     state: printed
+     
