@@ -1,0 +1,35 @@
+#this is first person list
+- name: swamy
+  dob: 01-04-1998
+  #this is map
+  address:
+  city: kakinada
+  country: india
+  dno: 1-1-a-5
+  street: mahathma
+  #this is list
+  adresses:
+  - type: modern
+    city: kakinada
+    country: india
+  - type: various
+    city: rjy
+    country: us
+#this is second person
+- name: ramki
+  dob: 28-04-1998
+  #this is map
+  address:
+  city: kakinda
+  country: india
+  dno: 10999
+  street: mahathma
+  #this is second person
+  adresses:
+  - type: normal
+    city: kkd
+    country: india
+  - type: critical
+    city: kkd
+    country: us
+ 
